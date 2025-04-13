@@ -11,6 +11,9 @@ Shutter Stories is a photography portfolio website created to showcase a collect
 * No additional installation or dependencies required  
 * Alternatively, view the live site on GitHub Pages
 
+## Live Site  
+🔗 [View Shutter Stories on GitHub Pages](https://rroon3y.github.io/Shutter-stories/)
+
 ## Known Bugs  
 There are currently no known issues with this application.
 
@@ -26,3 +29,4 @@ For any questions, feedback, or concerns, feel free to reach out:
 ### License  
 This project is licensed under the MIT License.  
 Copyright (c) 2025 **Rooney A. Mwangi**
+
